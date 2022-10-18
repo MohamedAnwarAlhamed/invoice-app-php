@@ -1,0 +1,9 @@
+$(document).ready(function(){
+
+}
+==========================================
+$("-------").prop("checked", this.checked);
+==========================================
+The prop() method sets or returns properties and values of the selected elements.
+==========================================
+a[href^="https"]	Selects every <a> element whose href attribute value begins with "https"
